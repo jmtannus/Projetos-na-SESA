@@ -17,7 +17,7 @@ Acompanhamento dos projetos na SESA
 > Assumi, com Gustavo, o sistema CC no dia 05/12/24
 
 # GERESaúde
-> Assumi no dia 10/11/24
+> Assumi integralmente no dia 10/11/24
 
 ## Documentações do Stakeholder:
  - Módulo Plano Municipal - Falta arrumar. Houve alteração.
