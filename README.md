@@ -5,6 +5,8 @@ Acompanhamento dos projetos na SESA
  > Módulo Plano Municipal - Estava na Sprint 17 e agora está na sprint 18. - Está com o Emanuel, está tudo muito bem com ele, estamos nos entendendo e colocando o projeto pra frente.
  > Módulo Relatório - Está no grupo "Aguard. Análise" para entrar para a próxima sprint, quando o Emanuel entregar o Modulo Plano Municipal.
 
+> Repassei para Monalisa no dia 25/03/25.
+
 # Arbovirose 
 > Estudei, mas a Lucília saiu, então eu ia entrar em contato com a área pra saber quem assumirá e quais as demandas desse novo stakeholder (evitando retrabalho).
 
